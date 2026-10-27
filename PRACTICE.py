@@ -1,3 +1,4 @@
 import numpy as np
-n=np.array([1,2,3,4])
-print(n)
+a = np.array([10,20,30])
+b = np.array([11,12,13])
+print(a+b)
